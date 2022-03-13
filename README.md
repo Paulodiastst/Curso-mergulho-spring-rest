@@ -4,6 +4,10 @@
 
 <h1 align="center">ESPECIALISTA SPRING REST</h1>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/158038266-e4104171-0c3c-4eb0-99db-08a5dfececa7.png"/>
+</P>
+
 <h2>🛑 Aula 01</h2>
 
 
